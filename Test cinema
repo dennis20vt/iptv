@@ -1,48 +1,4 @@
-#EXTM3U
- 
-# =======================================================
-# Playlist Name: GREipTv Cinema English
-# Playlist ID: 
-# Last Update: OCT-09-2018
-# =======================================================
-#
-#   ~ This playlist is property of ~
-#
-#   ▂▃▅▇█▓▒░ MEM MEDIA INC. ░▒▓█▇▅▃▂
-#
-#   Beware of scams - Our services are free!
-#
-#   ▬▬ι═══════ﺤ    -═══════ι▬▬
-#
-#   > We're compatible with Kodi, Android and iPhone
-#
-#   (===||:::::::::::::::>
-#
-#   > Somos compatibles con Kodi, Android y iPhone.
-#
-#   + Instrucciones: http://bit.ly/ManualIPTV
-#
-#   °º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸
-
-#   ▬▬ι═══════ﺤ    -═══════ι▬▬
-#
-#   Copyright © 2018 Mem Media Inc. All rights reserved.
-#
-
-#
-# =======================================================
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YwZsGFd.png" group-title="INFO",* Fluxus Cinema English
-http://149.56.23.7:20082/stream
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",+ Like Us!
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rR1Lgwg.png" group-title="INFO",> Free Entertainment
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= OCT-09-2018
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+----GREipTV Cinema-----
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1HqD2qdlDL._RI_.jpg" group-title="MOVIES",12 Strong (2018) (Geo)
 https://bobmovies.net/hl/12.Strong.2018hd.m3u8
