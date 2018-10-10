@@ -1,34 +1,62 @@
-#EXTINF:-1,OTE CINEMA 1 (GR)
-http://ok2.se:8000/live/donkey/donkey/4748.ts
-#EXTINF:-1,OTE CINEMA 2 (GR)
-http://ok2.se:8000/live/donkey/donkey/4747.ts
-#EXTINF:-1,OTE CINEMA 3 (GR)
-http://ok2.se:8000/live/donkey/donkey/4746.ts
-#EXTINF:-1,OTE CINEMA 4 (GR)
-http://ok2.se:8000/live/donkey/donkey/4745.ts
-#EXTINF:-1,OTE HISTORY (GR)
-http://ok2.se:8000/live/donkey/donkey/4744.ts
-#EXTINF:-1,NOVA SPORTS 1 HD (GR) – NEW
-http://ok2.se:8000/live/donkey/donkey/6447.ts
-#EXTINF:-1,NOVA SPORTS 2 HD (GR) – NEW
-http://ok2.se:8000/live/donkey/donkey/6448.ts
-#EXTINF:-1,NOVA SPORTS 3 HD (GR) – NEW
-http://ok2.se:8000/live/donkey/donkey/10397.ts
-#EXTINF:-1,OTE SPORT 1 (GR)
-http://ok2.se:8000/live/donkey/donkey/4743.ts
-#EXTINF:-1,OTE SPORT 2 (GR)
-http://ok2.se:8000/live/donkey/donkey/4742.ts
-#EXTINF:-1,OTE SPORT 3 (GR)
-http://ok2.se:8000/live/donkey/donkey/4741.ts
-#EXTINF:-1,OTE SPORT 4 (GR)
-http://ok2.se:8000/live/donkey/donkey/4740.ts
-#EXTINF:-1,OTE SPORT 5 (GR)
-http://ok2.se:8000/live/donkey/donkey/4739.ts
-#EXTINF:-1,OTE SPORT 6 (GR)
-http://ok2.se:8000/live/donkey/donkey/4738.ts
-#EXTINF:-1,OTE SPORT 7 (GR)
-http://ok2.se:8000/live/donkey/donkey/4737.ts
-#EXTINF:-1,OTE SPORT 8 (GR)
-http://ok2.se:8000/live/donkey/donkey/4736.ts
-#EXTINF:-1,OTE SPORT HIGHLIGHTS (GR)
-http://ok2.se:8000/live/donkey/donkey/4735.ts
+#EXTINF:-1,VIP GR: Cosmote Sport Highlights HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/27520.ts
+#EXTINF:-1,VIP GR: Cosmote Sport Highlights
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/11233.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 1 HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/27521.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 1
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/11241.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 2 HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/27522.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 2
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/11240.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 3 HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/27523.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 3
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/11239.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 4 HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/27524.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 4
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/11238.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 5 HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/27525.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 5
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/11237.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 6 HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/27536.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 6
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/11236.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 7 HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/27537.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 7
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/11235.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 8 HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/27538.ts
+#EXTINF:-1,VIP GR: Cosmote Sport 8
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/11234.ts
+#EXTINF:-1,VIP GR: Nova Sports 1 HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/12379.ts
+#EXTINF:-1,VIP GR: Nova Sports 1 HD (B)
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/21893.ts
+#EXTINF:-1,VIP GR: Nova Sports 2 HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/12380.ts
+#EXTINF:-1,VIP GR: Nova Sports 2 HD (B)
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/21894.ts
+#EXTINF:-1,VIP GR: Nova Sports 3 HD (Live Only)
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/12381.ts
+#EXTINF:-1,VIP GR: Nova Sports 3 HD (B)
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/21895.ts
+#EXTINF:-1,VIP GR: Nova Sports 4 HD (Live Only)
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/12382.ts
+#EXTINF:-1,VIP GR: Nova Sports 5 HD (Live Only)
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/17339.ts
+#EXTINF:-1,VIP GR: Fox Sports HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/27636.ts
+#EXTINF:-1,VIP GR: Edge Sport FHD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/19673.ts
+#EXTINF:-1,VIP GR: Motorvision Channel HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/20305.ts
+#EXTINF:-1,VIP GR: Eurosport 1 HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/13940.ts
+#EXTINF:-1,VIP GR: Eurosport 2 HD
+http://king-box.club:80/live/6iJeanWUbx/9Tfhj2oSmd/13939.ts
